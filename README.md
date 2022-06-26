@@ -13,4 +13,4 @@ Senaryo Adımları
 - Oluştrduğunuz bu iki karttan random olacak sekilde bir tanesini güncelleyiniz.
 - Oluşturduğunuz kartları siliniz.
 - Oluşturduğunuz board’ u siliniz.
-Mail Adresleri
+
